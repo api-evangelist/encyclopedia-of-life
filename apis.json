@@ -1,0 +1,74 @@
+{
+    "name": "Encyclopedia of Life",
+    "description": "The Encyclopedia of Life is an unprecedented effort to gather scientific knowledge about all animal and plant life where pictures, information, facts, and mo...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/587-encyclopedia-of-life.jpg",
+    "tags": [
+        "api provider",
+        "biology",
+        "content",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/encyclopedia-of-life\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Encyclopedia of Life",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/587-encyclopedia-of-life.jpg",
+            "humanURL": "http:\/\/eol.org\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/encyclopedia-of-life-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/encyclopedia-of-life-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.eol.org"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.eol.org\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/encyclopedia-of-life"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/encyclopedia-of-life"
+        },
+        {
+            "type": "Email",
+            "url": "press@eol.org"
+        },
+        {
+            "type": "Email",
+            "url": "secretariat@eol.org"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/EOL"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/EOL"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/eol.org\/api"
+        }
+    ]
+}
